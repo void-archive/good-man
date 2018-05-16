@@ -3,8 +3,8 @@ class GoodMan {
         this.man = man;
     }
 
-    isAGoodMan(man) {
-        console.log(`${man} is a good man`);
+    isAGoodMan() {
+        console.log(`${this.man} is a good man`);
     }
 }
 
