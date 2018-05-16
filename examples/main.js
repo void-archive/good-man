@@ -3,3 +3,4 @@ const { isAGoodMan } = new GM();
 
 isAGoodMan('Kyle');
 isAGoodMan('Jacob');
+isAGoodMan('Blake');
