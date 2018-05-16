@@ -7,3 +7,5 @@ class GoodMan {
         console.log(`${man} is a good man`);
     }
 }
+
+module.exports = GoodMan;
