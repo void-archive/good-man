@@ -1,4 +1,4 @@
-const GM = require('../src/index.js');
+const GM = require('../src/GoodMan/index.js');
 const { isAGoodMan } = new GM();
 
 isAGoodMan('Kyle');
