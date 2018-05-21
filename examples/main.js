@@ -5,3 +5,4 @@ isAGoodMan('Kyle');
 isAGoodMan('Jacob');
 isAGoodMan('Blake');
 isAGoodMan('Circuit');
+isAGoodMan('Augu');
