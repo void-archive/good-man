@@ -1,11 +1,9 @@
-class GoodMan {
-    constructor(man) {
+module.exports = class GoodMan { 
+    constructor(...man) {
         this.man = man;
     }
 
     isAGoodMan() {
-        console.log(`${this.man} is a good man`);
+        this.man.forEach((man) => console.log(`${man} is indeed a good man.`));
     }
 }
-
-module.exports = GoodMan;
